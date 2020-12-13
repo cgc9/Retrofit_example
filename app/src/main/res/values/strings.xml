@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="hint_search_string">Ingrese una palabra</string>
+    <string name="button_search">Ver el número de resultados</string>
+    <string name="hint_city_string">Ingrese el nombre de la ciudad</string>
+    <string name="btn_cityWeather">Ver la temperatura</string>
+</resources>
